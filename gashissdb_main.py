@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  8 16:52:11 2021
-
-@author: yong
-"""
 import sys
 sys.path.insert(0, 'E:\\yongmingping')
 
