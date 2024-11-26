@@ -67,3 +67,12 @@ The following public datasets were used:
 
 
 <img src="https://github.com/MPYong/gashissdb_transfer_ensemble_learning/blob/main/figures/ROC.jpg" width="600" />
+
+
+Through this project, I:
+
+* Gained hands-on experience with transfer learning and pretrained models for histopathology image classification.
+* Improved understanding of ensemble learning techniques to enhance model performance.
+* Learned to interpret model predictions using Grad-CAM heatmaps.
+* Enhanced my skills in evaluating model performance with scikit-learn and Matplotlib.
+* Strengthened my knowledge of deep learning by using TensorFlow/Keras effectively.
