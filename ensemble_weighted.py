@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 12 13:29:29 2021
-
-@author: yong
-"""
-
-
 import glob, os
 from PIL import Image
 import numpy as np
