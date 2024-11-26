@@ -11,7 +11,7 @@ Deep learning library used: Tensorflow/Keras, sklearn, matplotlib
 
 
 
-**1. Data preprocessing**
+# **1. Data preprocessing**
 
 
 * Performed augmentation on the datasets such as rotation and flipping
@@ -20,7 +20,7 @@ Deep learning library used: Tensorflow/Keras, sklearn, matplotlib
 * Loaded the augmented datasets
 
 
-**2. Models training and evaluation**
+# **2. Models training and evaluation**
 
 
 * Deployed pretrained networks (base models) with ImageNet weights such as DenseNet, ResNet, EfficientNet, InceptionV3, and Xception
@@ -35,7 +35,7 @@ Deep learning library used: Tensorflow/Keras, sklearn, matplotlib
   * Unweighted averaging
 
 
-**3. Model performance analysis**
+# **3. Model performance analysis**
 
 
 * Generated folders to identify and arrange samples predicted correctly and wrongly by individual models and all models
@@ -47,12 +47,12 @@ Deep learning library used: Tensorflow/Keras, sklearn, matplotlib
 * Utilized GradCAM heatmap to identify the ROI in the images
 
 
-**GradCAM figure example**
+# **GradCAM figure example**
 
 <img src="https://github.com/MPYong/gashissdb_transfer_ensemble_learning/blob/main/figures/gradcam.jpg" width="800" />
 
 
-**ROC graph example**
+# **ROC graph example**
 
 
 <img src="https://github.com/MPYong/gashissdb_transfer_ensemble_learning/blob/main/figures/ROC.jpg" width="600" />
