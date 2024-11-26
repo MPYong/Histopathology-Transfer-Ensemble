@@ -30,7 +30,7 @@ Deep learning library used: Tensorflow/Keras, sklearn, matplotlib
   * Unweighted averaging
 
 
-**3. Model performanc analysis**
+**3. Model performance analysis**
 
 
 * Generated folders to identify and arrange samples predicted correctly and wrongly by individual models and all models
