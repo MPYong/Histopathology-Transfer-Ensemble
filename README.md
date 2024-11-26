@@ -1,4 +1,4 @@
-This project explored the models based on transfer learning and ensemble learning for histopathology image analysis on the public datasets such as:
+This project explored the models based on transfer learning and ensemble learning histopathology image classification tasks on the public datasets such as:
 
 
 * [GasHisSDB](https://gitee.com/neuhwm/GasHisSDB)
