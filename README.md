@@ -40,3 +40,7 @@ Deep learning library used: Tensorflow/Keras, sklearn, matplotlib
 
 
 * Utilized GradCAM heatmap to identify the ROI in the images
+
+
+
+![GradCAM heatmap example](https://github.com/MPYong/gashissdb_transfer_ensemble_learning/blob/main/figures/gradcam.jpg?raw=true)
