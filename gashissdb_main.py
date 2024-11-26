@@ -1,7 +1,3 @@
-import sys
-sys.path.insert(0, 'E:\\yongmingping')
-
-
 import glob, os
 from PIL import Image
 import numpy as np
